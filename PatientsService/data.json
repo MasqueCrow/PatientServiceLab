@@ -1,0 +1,39 @@
+{
+    "data":[
+        {
+            "nric":"S1234567A",
+            "name":"Tommy Tan",
+            "birthdate":"10/5/91",
+            "gender":"M",
+            "address":"123 Tampines St 3 #01-01 S123456"
+        },
+        {
+            "nric":"S2244577A",
+            "name":"Sally Tan",
+            "birthdate":"11/3/95",
+            "gender":"F",
+            "address":"234 Tampines St 2 #02-01 S123452"
+        },
+        {
+            "nric":"S9912345A",
+            "name":"Alice Tay",
+            "birthdate":"12/12/99",
+            "gender":"F",
+            "address":"123 Bedok St 4 #11-01 S220123"
+        },
+        {
+            "nric":"S9022532A",
+            "name":"Jia Jia",
+            "birthdate":"11/5/90",
+            "gender":"M",
+            "address":"456 Jurong St 3 #01-01 S123456"
+        },
+        {
+            "nric":"T0010021A",
+            "name":"Jian Jian",
+            "birthdate":"11/3/00",
+            "gender":"F",
+            "address":"456 Pioneer St 3 #01-01 S123456"
+        }
+    ]
+}
